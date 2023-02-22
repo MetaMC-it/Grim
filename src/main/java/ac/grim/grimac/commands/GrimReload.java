@@ -12,7 +12,7 @@ import com.github.retrooper.packetevents.netty.channel.ChannelHelper;
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;
 
-@CommandAlias("grim|grimac")
+@CommandAlias("anticheat|atc")
 public class GrimReload extends BaseCommand {
     @Subcommand("reload")
     @CommandPermission("grim.reload")

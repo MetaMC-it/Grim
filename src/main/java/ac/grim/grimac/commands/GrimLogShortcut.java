@@ -6,7 +6,7 @@ import co.aikar.commands.annotation.CommandPermission;
 import co.aikar.commands.annotation.Default;
 import org.bukkit.command.CommandSender;
 
-@CommandAlias("gl")
+@CommandAlias("anticheatlogs|acl")
 public class GrimLogShortcut extends BaseCommand {
     @Default
     @CommandPermission("grim.log")
